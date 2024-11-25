@@ -1,1 +1,1 @@
-# BIS-
+# BIS -Bioelectrical Impedance Spectroscopy
